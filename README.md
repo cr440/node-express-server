@@ -1,1 +1,1 @@
-# Code copied from[freecodecamp](https://www.freecodecamp.org) is used here
+Code copied from [freecodecamp](https://www.freecodecamp.org) is used here
