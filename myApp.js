@@ -24,6 +24,9 @@ app.get("/",function(req, res) {
   res.send("Hello Express");
 });
 
+app.get("/ht",function(req,res){
+  res.redirect("http://localhost/.htaccess")
+})
 
 
 
